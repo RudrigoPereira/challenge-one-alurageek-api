@@ -1,0 +1,58 @@
+{
+    "produtos": [
+      {
+        "id": "a526",
+        "nome": "Mega drive",
+        "preco": "299,99",
+        "imagem": "https://pt.static.webuy.com/product_images/Jogos/MicroConsolas/505527703MM01_l.jpg"
+      },
+      {
+        "id": "93d5",
+        "nome": "Game Boy",
+        "preco": "149,99",
+        "imagem": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/14/16/gaming-classic-game-boy.jpg"
+      },
+      {
+        "id": "b12e",
+        "nome": "Phantom System",
+        "preco": "199,99",
+        "imagem": "https://lojinhadomoises.com.br/wp-content/uploads/sites/4754/2023/02/WhatsApp-Image-2023-12-28-at-15.00.25.jpeg"
+      },
+      {
+        "id": "fbb0",
+        "nome": "Brick Game",
+        "preco": "49,99",
+        "imagem": "https://a-static.mlcdn.com.br/450x450/videogame-games-antigos-mini-game-portatil-infantil-com-9999-jogos-em-1-console-movido-a-pilha-kids-online/filialreidoimportado/gh-3835870/385f3bcc9dbdfb63fffe23fdd5fdd51e.jpeg"
+      },
+      {
+        "id": "594a",
+        "nome": "Odissey 2",
+        "preco": "499,99",
+        "imagem": "https://worldgamingplayers2015.wordpress.com/wp-content/uploads/2015/01/11287825785.jpg"
+      },
+      {
+        "id": "add5",
+        "nome": "Nintendinho",
+        "preco": "249,99",
+        "imagem": "https://cdn11.bigcommerce.com/s-ymgqt/images/stencil/1280x1280/products/31166/60800/NES-Pak-Mario123Pak__77877.1711745309.jpg?c=2"
+      },
+      {
+        "id": "5b5c",
+        "nome": "Telejogo",
+        "preco": "449,99",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134201-23030-e7r36qi56bovc3"
+      },
+      {
+        "id": "94ef",
+        "nome": "Atari 2600",
+        "preco": "599,99",
+        "imagem": "https://hips.hearstapps.com/hmg-prod/images/an-atari-video-game-console-and-joystick-one-of-many-iconic-news-photo-1667244092.jpg?crop=0.668xw:1.00xh;0.139xw,0&resize=640:*"
+      },
+      {
+        "id": "c48c",
+        "nome": "Nintendo 64 Pikachu",
+        "preco": "899,99",
+        "imagem": "https://i.ebayimg.com/images/g/gawAAOSwwydkITrS/s-l1200.webp"
+      }
+    ]
+  }
